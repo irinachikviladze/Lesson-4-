@@ -1,0 +1,204 @@
+.logo{
+    display: inline-block;
+    vertical-align: middle;
+}
+.navigation{
+    display: inline-block;
+    vertical-align: middle;
+}
+.nav-li{
+    display: inline-block;
+    padding: 45px 0 0 160px;
+}
+.nav-a{
+    letter-spacing: 2px;
+    font-size: 20px;
+    color: #000000;
+    font-family: 'Merriweather', serif;
+}
+.active{
+    color:#FF6969;
+}
+.img2{
+    width: 100%;
+}
+header{
+    margin-bottom: 10px;
+}
+.more{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 60px;
+    font-family: 'Merriweather', serif;
+}
+.boxes{
+    margin-top:100px;
+    text-align: center;
+}
+.left-box{
+    display: inline-block;
+    background-color:#B5D0C1;
+    height: 380px;
+    width:350px;
+    margin-right: 100px;
+    font-family: 'Cinzel Decorative', cursive;
+}
+.right-box{
+    display: inline-block;
+    background-color:#789190;
+    height: 380px;
+    width:350px;
+}
+.img-box{
+    width:350px;
+    height:250px;
+}
+.p-box{
+    width:335px;
+    height:130px;
+    padding:10px 0 0 10px;
+    font-size: 20px;
+    font-family: 'Crimson Pro', serif; 
+    font-size: 20px;
+}
+/*HOTELS/VILLAS/RESORTS- styles */
+.villa-page{
+    margin-top: 30px;
+    height:400px;
+    background-color: #4b806085;
+}
+.about-bali{
+   padding-top: 100px;
+    margin-left: 50px;
+}
+.h2-title{
+    font-family: 'PT Serif';
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+    font-family: 'PT Serif';
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+    text-align: center;
+    font-size: 40px;
+}
+.p-title{
+    margin:auto;
+    margin-top:40px;
+    font-size: 20px;
+    text-align: center;
+    width: 600px;
+    font-family: 'PT Serif';
+    font-style: italic;
+    font-display: swap;
+}
+.img-villa{
+    display: inline-block;
+    width:280px;
+    height:190px;
+    margin-left: 20px;
+}
+.title-villa{
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+    margin-left: 20px;
+    margin-bottom:20px;
+    font-size: 40px;
+    margin-top: 100px;
+}
+.text-villa{
+    margin-left:30px;
+    width: 500px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 18px;
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+.seemaps{
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+    color:aliceblue;
+}
+.maps{
+    width: 150px;
+    height:50px;
+    background-color: #64BAF2;
+    display: inline-block;
+    vertical-align: bottom;
+    margin-left: 100px;
+    
+}
+.maps-title{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 20px;
+}
+.villa2{
+    margin-top: 200px;
+}
+.show-more{
+    width: 200px;
+    height:50px;
+    background-color: #64BAF2;
+    display: block;
+    margin:auto;
+    margin-top: 100px;
+   
+}
+.showmore-title{
+    text-align: center;
+    margin-top:15px;
+    font-size: 20px;
+    line-height:50px;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+   
+}
+footer{
+    text-align: center;
+    margin: 100px 0 0 0;
+}
+.footer-icons{
+    margin:100px 20px 30px 20px;
+}
+/* Contact section - styles */
+.contact-section{
+    margin-top: 10px;
+    height:500px;
+    background-color: #4b806085;
+}
+.contact-div{
+display: inline-block;
+vertical-align: top;
+margin: 25px 0 0 50px;
+}
+h4{
+font-size: 20px;
+}
+.li-contact{
+margin-top:20px;
+}
+
+span{
+margin-right: 10px;
+font-size: 20px;
+}
+.map-div{
+display: inline-block;
+margin:25px 0 0 350px;
+}
+.links{
+text-decoration: none;
+color:rgb(82, 58, 58);
+}
